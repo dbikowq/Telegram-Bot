@@ -1,0 +1,12 @@
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\onlineBotTelegram.exe.config
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\onlineBotTelegram.exe
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\onlineBotTelegram.pdb
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\Telegram.Bot.dll
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\bin\Debug\Telegram.Bot.xml
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\obj\Debug\onlineBotTelegram.csprojAssemblyReference.cache
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\obj\Debug\onlineBotTelegram.csproj.CoreCompileInputs.cache
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\obj\Debug\onlineBotTelegram.csproj.CopyComplete
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\obj\Debug\onlineBotTelegram.exe
+C:\Users\kekyou\Desktop\C# проекты\onlineBotTelegram\onlineBotTelegram\obj\Debug\onlineBotTelegram.pdb
